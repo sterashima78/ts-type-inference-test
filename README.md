@@ -1,0 +1,1 @@
+# ts-type-inference-test
