@@ -1,0 +1,28 @@
+{
+  "name": "ts-type-test",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sterashima78/ts-type-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sterashima78/ts-type-test/issues"
+  },
+  "homepage": "https://github.com/sterashima78/ts-type-test#readme",
+  "dependencies": {
+    "typescript": "^4.9.5",
+    "zod": "^3.20.6"
+  },
+  "devDependencies": {
+    "@types/node": "^18.14.0"
+  }
+}
