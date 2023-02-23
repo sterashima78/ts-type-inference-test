@@ -1,6 +1,3 @@
-# ts-type-inference-test
-
-
 ```sh
 $ npm run build
 
