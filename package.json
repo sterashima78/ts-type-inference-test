@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/sterashima78/ts-type-test#readme",
   "dependencies": {
+    "@sinclair/typebox": "^0.25.24",
     "typescript": "^4.9.5",
     "zod": "^3.20.6"
   },
